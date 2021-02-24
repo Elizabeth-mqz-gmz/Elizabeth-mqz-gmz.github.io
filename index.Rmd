@@ -1,40 +1,44 @@
 ---
 title: "Elizabeth Márquez Gómez"
-image: "frank.jpg"
+image: "eli.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: 'https://twitter.com/MqElizabeth'
   - label: GitHub
-    url: "https://github.com/"
+    url: 'https://github.com/Elizabeth-mqz-gmz'
   - label: Email
-    url: "mailto:email@email.com"
+    url: 'mailto:elimqzg@lcg.unam.mx'
 output:
   postcards::trestles
 ---
  
-## Bio
+## About me
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a 19-year-old student, studying the undergraduate of Genomic Sciences at National Autonomous University of Mexico (UNAM). I am interested on bioinformatics and the study of evolution. I am passionate about science, thrilled and intrigued by the unsolved mysteries in the area of biology and astrophysics. My biggest goal is to do research in the area of astrobiology, focusing on the study of the origin of life, existence and subsistence of life outside the Earth.
+I enjoy setting new challenges and finding creative solutions to existing problems.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Escuela Nacional Preparatoria No. 6 "Antonio Caso"** | Mexico City, MEX
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Computer Technician | August 2017 - April 2019
 
-**The University of California, Berkeley** | Berkeley, CA
+**Centro de Ciencias Genómicas - Universidad Nacional Autónoma de México** | Morelos, MEX
 
-B.S. in Computer Science | September 2005 - May 2009
+Undergraduate Genomic Science student | August 2019 - Present
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Escuela Nacional Preparatoria No. 6 "Antonio Caso"** | Web Development Course | May 2018 - June 2018
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Instituto de Fisiología Celular - UNAM** | Dra. Paula Licona | June 2018 - July 2018
+
+**ARACT UNAM** | Robotics Course | August 2018
+
+**Instituto Nacional de Pediatría - UNAM** | Dr. Juan Miranda | June 2019 - July 2019
+
+**Instituto de Biotecnología - UNAM** | Dr. Mario Zurita | February 2020 - March 2020
+
+**Astrobiology: Exploring Other Worlds** | University of Arizona | July 2020
+
+
