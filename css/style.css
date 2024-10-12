@@ -9,10 +9,10 @@
 /* variables */
 :root {
   /* Colors */
-  /* --primary-color: #ffcd42;
-  --secondary-color: #ffd35c; */
-  --primary-color: #7c7b78;
-  --secondary-color: #eecd69;
+  --primary-color: #ffcd42;
+  --secondary-color: #ffd35c;
+  /* --primary-color: #7c7b78;
+  --secondary-color: #eecd69; */
   --bg-primary: #ffffff;
   --text-color: #222222;
   --text-color-two: #ffffff;
@@ -34,10 +34,10 @@
 }
 
 [data-theme="dark"] {
-  /* --primary-color: #ffcd42;
-  --secondary-color: #ffd35c; */
-  --primary-color: #7c7b78;
-  --secondary-color: #eecd69;
+  --primary-color: #ffcd42;
+  --secondary-color: #ffd35c;
+  /* --primary-color: #7c7b78;
+  --secondary-color: #eecd69; */
   --bg-primary: #000000;
   --text-color: #ffffff;
   --text-color-two: #222222;
